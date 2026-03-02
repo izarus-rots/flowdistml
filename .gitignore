@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 
 test_out/
+
+bcelldata/
+
+.DS_Store
